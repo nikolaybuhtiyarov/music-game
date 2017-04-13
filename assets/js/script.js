@@ -1,0 +1,1 @@
+alert("Use all letters on the keyboard to play sounds! Don't forget to turn on your speakers! Have fun!");
